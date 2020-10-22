@@ -1,4 +1,5 @@
 impl Solution {
+    // FLip lights from Leetcode
     pub fn flip_lights(n: i32, m: i32) -> i32 {
         let mut real_n = std::cmp::min(3, n);
     if m == 0 {
