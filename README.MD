@@ -1,3 +1,1 @@
-Leetcode Solutions
-
-This is just a way to document my solution approaches to LeetCode problems and learn Rust along the way. Hope it is helpful
+![leetcode-rust-repo](https://socialify.git.ci/nickx720/leetcode-rust-repo/image?description=1&font=Bitter&language=1&owner=1&pattern=Circuit%20Board&theme=Dark)
