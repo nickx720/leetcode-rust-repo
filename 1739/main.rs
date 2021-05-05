@@ -1,4 +1,6 @@
 impl Solution {
+    // Explaination
+    // https://dev.to/seanpgallivan/solution-building-boxes-4keg 
     pub fn minimum_boxes(n: i32) -> i32 {
         let (mut total, mut bottom, mut height) = (1, 1, 1);
         while total < n {
